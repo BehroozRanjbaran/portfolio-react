@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Front End Developer",
+    "organisation": "Reon Int GLtd",
+    "startDate": "2023",
+    "endDate": "2024",
+    "experiences": ["Developed responsive WordPress UI", "Reduced load times by 15%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Front End Developer",
+    "organisation": "Vakeh Translation Ins",
+    "startDate": "2022",
+    "endDate": "2023",
+    "experiences": ["Designed WordPress UI with Elementor", "Enhanced SEO ranking"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "IT Administrator",
+    "organisation": "Insurance Agency",
+    "startDate": "2010",
+    "endDate": "2021",
+    "experiences": [
+      " Managed IT infrastructure and CRM systems",
+      "Implemented cloud-based storage solutions"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
