@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Mock IELTS",
+    "imageSrc": "projects/project.png",
+    "description": "Mock IELTS Website Using JavaScript ,HTML, CSS",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://ielts-mock-six.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Weather App Using React.JS",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://react-weather-app-rust-eight.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Book Shop Back-end",
+    "imageSrc": "projects/project.png",
+    "description": "This is my first project with NodeJS",
+    "skills": ["MongoDB", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
