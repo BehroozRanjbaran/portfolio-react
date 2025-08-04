@@ -29,6 +29,7 @@
     rgba(255, 255, 255, 1) 70%,
     rgba(255, 255, 255, 0) 120%
   );
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
@@ -103,9 +104,37 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
   }
 
   .content {
     align-items: center;
+  }
+
+  .title {
+    font-size: 42px;
+    margin-bottom: 24px;
+  }
+
+  .description {
+    font-size: 20px;
+    margin-bottom: 32px;
+  }
+
+  .contactBtn {
+    font-size: 20px;
+    padding: 12px 20px;
+  }
+
+  .heroImg {
+    width: 80%;
+    margin-bottom: 30px;
+  }
+
+  .topBlur,
+  .bottomBlur {
+    display: none; /* Remove blurs from mobile phones to prevent heavy loading */
   }
 }

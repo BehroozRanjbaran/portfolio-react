@@ -59,3 +59,42 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+
+@media screen and (max-width: 830px) {
+  .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 16px;
+  }
+
+  .title {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .description {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .skills {
+    justify-content: center;
+  }
+
+  .skill {
+    font-size: 16px;
+    padding: 4px 12px;
+  }
+
+  .links {
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+  }
+
+  .link {
+    font-size: 18px;
+    padding: 6px 16px;
+    width: fit-content;
+  }
+}
