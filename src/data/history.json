@@ -1,6 +1,6 @@
 [
   {
-    "role": "Front End Developer",
+    "role": "Front-End Developer",
     "organisation": "Reon Int GLtd",
     "startDate": "2023",
     "endDate": "2024",
@@ -8,11 +8,19 @@
     "imageSrc": "history/google.png"
   },
   {
-    "role": "Front End Developer",
+    "role": "Front-End Developer",
     "organisation": "Vakeh Translation Ins",
     "startDate": "2022",
     "endDate": "2023",
     "experiences": ["Designed WordPress UI with Elementor", "Enhanced SEO ranking"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Front-End Training",
+    "organisation": "Self-Directed Learning",
+    "startDate": "2021",
+    "endDate": "2022",
+    "experiences": ["Self-study of JavaScript and the modern front-end stack,\nbuilding practice projects (see GitHub)"],
     "imageSrc": "history/microsoft.png"
   },
   {
